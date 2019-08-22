@@ -11,6 +11,6 @@
       "Test contracts": "truffle test"
     },
     "hooks": {
-      "post-unpack": "echo .mnemonic > .gitignore"
+      "post-unpack": "echo .mnemonic >> .gitignore"
     }
   }
