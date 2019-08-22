@@ -21,7 +21,7 @@ truffle unbox etienne-napoleone/tomochain-box
 Add your mnemonic to the `.mnemonic` file.
 
 
-**Attention:** A gitignore is automatically created to ignore the `.mnemonic` file. Please becareful to never version it!
+**Attention:** A gitignore is automatically created to ignore the `.mnemonic` file. Please be careful to never version it!
 
 
 You can then develop your smart contract and use truffle with usual commands directly on TomoChain.
