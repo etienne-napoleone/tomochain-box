@@ -2,7 +2,7 @@
 
 A truffle box to easily start with smart contract deployment on TomoChain.
 
-Testnet and Mainnet networks aswell as the 10 TOMO deployment fee are already configured.
+Testnet and Mainnet networks as well as the 10 TOMO deployment fee are already configured.
 
 # Usage
 
