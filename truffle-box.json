@@ -5,7 +5,8 @@
     ],
     "commands": {
       "Compile contracts": "truffle compile",
-      "Migrate contracts": "truffle migrate",
+      "Migrate contracts to testnet": "truffle migrate --network testnet",
+      "Migrate contracts to mainnet": "truffle migrate --network mainnet",
       "Test contracts": "truffle test"
     },
     "hooks": {
