@@ -6,10 +6,10 @@ Testnet and Mainnet networks as well as the 10 TOMO deployment fee are already c
 
 ## Installation
 
-Install truffle.
+Install truffle and truffle HDWalletPriovider.
 
 ```
-npm install -g truffle
+npm install -g truffle truffle-hdwallet-provider
 ```
 
 Open that truffle box.
